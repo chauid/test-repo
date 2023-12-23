@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","tags":["a","gardenEntry"]}
+{"dg-publish":true,"permalink":"/test/","tags":["a","gardenEntry","gardenEntry"]}
 ---
 
 # Hello
