@@ -2,7 +2,6 @@
   let stateValue: number = 0;
   function addState() {
     stateValue++;
-    console.log(window.location.href);
     // history.pushState({ page_id: 1, data: 'tt' }, '', '/s');
   }
 </script>
